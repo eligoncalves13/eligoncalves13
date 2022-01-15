@@ -1,6 +1,6 @@
 ### Hey there, I'm Élida 👋
 
-- 💻 I'm graduating System Analysis and Development.
+- 💻 I'm graduating in System Analysis and Development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 
 <div align="center">
